@@ -7,3 +7,7 @@ func SayHiToMom() string {
 func SayHi() string {
 	return "Hi!"
 }
+
+func SayHello() string {
+	return "Hello!"
+}
